@@ -1,0 +1,2 @@
+load("antiafk")
+registerCoreModule("antiafk")
